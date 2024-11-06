@@ -2,7 +2,7 @@
 
 # This is a basic workflow that is manually triggered
 
-name: 'Execucao Manual'
+name: 'TF Execucao Manual'
 
 #triggers gatilhos de ecxec
 on:
