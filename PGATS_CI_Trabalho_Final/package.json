@@ -1,0 +1,19 @@
+{
+  "name": "trabalhofinalcipgats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gelson Gentil",
+  "license": "ISC",
+  "description": "Projeto Disciplina integracao continua",
+  "devDependencies": {
+    "@faker-js/faker": "8.4.1",
+    "cypress": "^13.7.3",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "i": "^0.3.7",
+    "npm": "^10.8.2"
+  }
+}
