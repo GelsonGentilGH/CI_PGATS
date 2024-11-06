@@ -2,7 +2,7 @@
 
 # This is a basic workflow that is manually triggered
 
-name: 'Trabalho Final CI PGATS - Execucao Manual'
+name: 'Execucao Manual'
 
 #triggers gatilhos de ecxec
 on:
