@@ -23,7 +23,7 @@ import homePage from '../pages/homePage'
 //-USUARIO:gentilf_woLYOa
 //-ACCESKEY:TgQkpsZSmp8wwaknzgD4
 
-describe('TRABALHO FINAL - DISCIPLINA DE AUTOMAÇÃO DE TESTES EM WEB: Automation Exercise', () => {
+describe('TRABALHO FINAL - DISCIPLINA DE CI E TESTES AUTOMATIZADOS: PIPE COM EXEC MANUAL', () => {
   //EXECUTA UMA UNICA VEZ ANTES DE TODOS OS TESTES.
   //Cria usuário padrão para ser utilizado nos testes.
   before(() => {
